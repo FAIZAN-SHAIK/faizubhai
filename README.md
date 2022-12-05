@@ -1,9 +1,8 @@
 Name: FAIZAN SHAIK
 Place: Andhra pradesh
 Bio: Coding Is Life.
-GitHub: 
-Facebook:
-Linkrdin:
+GitHub: https://github.com/FAIZAN-SHAIK
+Linkedin:https://www.linkedin.com/in/faizan-shaik-1642a3258/
 Email:lordfaizu123@gmail.com
 
 **Completed Courses**
